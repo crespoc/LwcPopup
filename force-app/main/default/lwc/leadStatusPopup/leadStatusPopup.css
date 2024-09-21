@@ -1,0 +1,8 @@
+/*.slds-modal__header {
+    background-color: #4CAF50;
+    color: white;
+}*/
+.slds-modal__header {
+    background-color: rgb(255, 255, 255); /* color verde con fondo transparente */
+    color: rgba(17, 153, 163, 0.644);
+}
